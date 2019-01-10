@@ -1,12 +1,6 @@
 .git/
 .github/
-node_modules/*
-src/
 tools/
 
 LICENSE.MIT
-.eslintignore
-.eslintrc.js
 Makefile
-package.json
-yarn.lock
